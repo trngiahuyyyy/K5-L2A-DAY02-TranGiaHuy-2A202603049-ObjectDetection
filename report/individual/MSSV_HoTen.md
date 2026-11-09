@@ -4,12 +4,12 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Họ tên: Trần Gia Huy
+- MSSV: 2A202603049
+- Email: trn.giahuyyy@gmail.com
+- Lớp: L2A
+- Link repo bài làm: https://github.com/trngiahuyyyy/K5-L2A-DAY02-TranGiaHuy-2A202603049-ObjectDetection
+- Link Colab đã chạy: https://colab.research.google.com/github/trngiahuyyyy/K5-L2A-DAY02-TranGiaHuy-2A202603049-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb
 
 ## 2. Schema và mini guideline
 
@@ -17,7 +17,7 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 ## 3. Annotation và self-QC
 
-- Số file nhãn train:
+- Số file nhãn train: 50
 - Kết quả checker và lỗi đã xử lý:
 - Danh sách ít nhất 10 ảnh đã rà bằng mắt:
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
