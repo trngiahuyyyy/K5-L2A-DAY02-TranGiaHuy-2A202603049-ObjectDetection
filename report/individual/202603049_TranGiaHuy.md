@@ -73,6 +73,7 @@ Trả lời bốn câu hỏi cuối notebook:
 ## 7. Tự đánh giá theo rubric
 
 Đối chiếu [RUBRIC.md](../../RUBRIC.md): phần nào đã có kết quả, phần nào còn thiếu hoặc chưa kiểm được. Không tự nhận hoàn thành bước chưa chạy.
+  Tự đánh giá 65, phần Độ bám sát và hình học box và Gold-set annotation QC chưa kiểm được. Gold-set annotation đã được giáo viên cho phép F1>0.5
 
 ## 8. Công cụ AI và tài liệu tham khảo
 
