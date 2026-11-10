@@ -77,3 +77,5 @@ Trả lời bốn câu hỏi cuối notebook:
 ## 8. Công cụ AI và tài liệu tham khảo
 
 Ghi công cụ đã dùng, dùng ở bước nào và phần đã tự kiểm tra; không dùng thì ghi rõ. Liệt kê nguồn ngoài repo được sử dụng. Không ghi mật khẩu/token hoặc đính kèm gold train.
+
+Công cụ đã dùng claude.ai, dùng ở bước label xe và đã tự kiểm tra bằng cách đưa quyết định nên box hay không.
