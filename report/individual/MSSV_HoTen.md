@@ -46,10 +46,10 @@ Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi �
 
 | Chỉ số trên 10 ảnh eval | Giá trị |
 |---|---:|
-| Precision | |
-| Recall | |
-| mAP50 | |
-| mAP50–95 | |
+| Precision | 0.4090642760207564 |
+| Recall | 0.23393606659813174 |
+| mAP50 | 0.2706670034721526 |
+| mAP50–95 | 0.1995504032766255 |
 
 Đặt cả 2 folder `assets/eval_predictions/` và `assets/yolo26_runs/` (giải nén từ `day2_colab_outputs.zip`) cạnh báo cáo và dẫn link tương đối. Không chỉ ghi số; chỉ ra ít nhất một ảnh và vật thể cụ thể.
 
