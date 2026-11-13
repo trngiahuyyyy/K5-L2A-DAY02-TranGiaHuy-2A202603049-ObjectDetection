@@ -6,7 +6,7 @@
 
 - Họ tên: Trần Gia Huy
 - MSSV: 2A202603049
-- Email: trn.giahuyyy@gmail.com
+- Email: 26ai.huytg2@vinuni.edu.vn
 - Lớp: L2A
 - Link repo bài làm: https://github.com/trngiahuyyyy/K5-L2A-DAY02-TranGiaHuy-2A202603049-ObjectDetection
 - Link Colab đã chạy: https://colab.research.google.com/github/trngiahuyyyy/K5-L2A-DAY02-TranGiaHuy-2A202603049-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb
